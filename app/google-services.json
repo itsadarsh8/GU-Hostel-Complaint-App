@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "358718859911",
+    "firebase_url": "https://gucomplaint.firebaseio.com",
+    "project_id": "gucomplaint",
+    "storage_bucket": "gucomplaint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358718859911:android:8aa404c06b1725a9",
+        "android_client_info": {
+          "package_name": "com.example.moon.complaintsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358718859911-gn1d1mc7p3ovabbqfmmu2tptde1823j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moon.complaintsystem",
+            "certificate_hash": "316f8cee707c561153a2444e74a5bdcf3cdd4064"
+          }
+        },
+        {
+          "client_id": "358718859911-kt79e57fcrm8snn7q5qoootv48lo5rvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMw-X3e09BS6qy-6bJWEcjPNqhUVkqys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358718859911-kt79e57fcrm8snn7q5qoootv48lo5rvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
